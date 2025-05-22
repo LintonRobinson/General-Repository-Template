@@ -143,22 +143,22 @@ npm install
 # Start the development server
 npm run start
 
+```
 
 ## 🧠 What I Learned
 	•	Brief explanation of technical concepts learned
 	•	Notable design or architecture decisions
 	•	Reflections on debugging, tools, or performance
 
-⸻
 
-🛣️ Roadmap
+## 🛣️ Roadmap
 	•	Feature: Add dark mode
 	•	Improvement: Accessibility enhancements
 	•	Refactor: Componentize major UI sections
 
 ⸻
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
