@@ -45,9 +45,9 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 
 ## 📸 Screenshots
 
-| Desktop | Tablet | Mobile |
-|--------|--------|--------|
-| ![Desktop](./readme-assets/Desktop.png) | ![Tablet](./readme-assets/Tablet.png) | ![Mobile](./readme-assets/Mobile.png) |
+| Desktop | 
+|--------|
+| ![Desktop](./readme-assets/Desktop.png) | 
 
 ---
 
@@ -55,10 +55,10 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 
 To run this project locally:
 
+Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/yourhandle/project-name.git
-
+```
 # Navigate into the project folder
 cd project-name
 
@@ -68,33 +68,33 @@ npm install
 # Start the development server
 npm run start
 
-```
+
 
 ⚠️ Set up environment variables or API keys if required.
 
 
 
 ## 🧠 What I Learned
-	•	Brief explanation of technical concepts learned
-	•	Notable design or architecture decisions
-	•	Reflections on debugging, tools, or performance
+- Brief explanation of technical concepts learned
+- Notable design or architecture decisions
+- Reflections on debugging, tools, or performance
 
 
 
 ## 🛠️ Libraries / Assets
 
 JavaScript Libraries:
-	•	Library Name
+- Library Name
 
 Icons:
-	•	Google Material Icons
+- Icon name
 	•	Microsoft Fluent UI System Icons
 
 
 ## 🛣️ Roadmap
-- Add dark mode
-- Improve accessibility
-- Refactor UI into components
+	•	Add dark mode
+	•	Improve accessibility
+	•	Refactor UI into components
 
 ⸻
 
