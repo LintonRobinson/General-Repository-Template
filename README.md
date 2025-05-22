@@ -92,9 +92,9 @@ Icons:
 
 
 ## 🛣️ Roadmap
-	•	Add dark mode
-	•	Improve accessibility
-	•	Refactor UI into components
+- Add dark mode
+- Improve accessibility
+- Refactor UI into components
 
 ⸻
 
