@@ -12,7 +12,7 @@
   <h3><b><a href="#live-demo">🔗 View Live Demo</a></b></h3>
 </div>
 
-⸻
+
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 
 > 📘 [Assignment Instructions](#link-to-assignment)
 
-⸻
+
 
 ## ⚙️ How It Works
 
@@ -28,7 +28,7 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 - Feature 2  
 - Feature 3  
 
-⸻
+
 
 ## ✨ Features
 
@@ -36,7 +36,7 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 - Feature 2  
 - Feature 3  
 
----
+
 
 ## 🔧 Tech Stack
 
@@ -47,7 +47,7 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 - JavaScript  
 - Webpack  
 
-⸻
+
 
 ## 📸 Screenshots
 
@@ -55,7 +55,7 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 |--------|
 | ![Desktop](./readme-assets/Desktop.png) | 
 
-⸻
+
 
 ## 🛠️ Libraries / Assets
 
@@ -65,13 +65,31 @@ JavaScript Libraries:
 Icons:
 - Icon name
 
-⸻
+
 
 ## 🛣️ Roadmap
 - Future features 
 
-⸻
 
+<!-- ⚠️ Set up environment variables or API keys if required. -->
+
+
+
+## 🧠 What I Learned
+- Brief explanation of technical concepts learned
+- Notable design or architecture decisions
+- Reflections on debugging, tools, or performance
+
+
+
+## 🧪 Notes
+- Note about process or logic
+- Any helpful development tips
+- Things you’d improve in future iterations
+
+
+
+---
 ## 📦 Installation - (To Run This Project Locally):
 
 ### 1. Clone the repository
@@ -82,41 +100,19 @@ git clone https://github.com/yourhandle/project-name.git
 ```bash
 cd project-name
 ```
-### Install dependencies
+### 3. Install dependencies
 ```bash
 npm install
 ```
-### Start the development server
+### 4. Start the development server
 ```bash
 npm run start
 ```
-### # 5. Build for production (outputs to /dist)
+### 5. Build for production (outputs to /dist)
 ```bash
 npm run build
 ```
-
-
-
-
-
-<!-- ⚠️ Set up environment variables or API keys if required. -->
-
-⸻
-
-## 🧠 What I Learned
-- Brief explanation of technical concepts learned
-- Notable design or architecture decisions
-- Reflections on debugging, tools, or performance
-
-⸻
-
-## 🧪 Notes
-- Note about process or logic
-- Any helpful development tips
-- Things you’d improve in future iterations
-
-⸻
-
+---
 
 
 ## 🙋‍♂ Author
