@@ -1,5 +1,6 @@
 
 <div  align=center>
+	<br>
 	<h1>Project Name Goes Here
 	<br>
 		<img src="https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=for-the-badge&logo=HTML5&logoColor=white&logoWidth=&labelColor=&link=">
@@ -9,6 +10,7 @@
 		<!-- Generate logos with text from https://simpleicons.org/ -->
 	<br>
 	</h1>
+	<br>
 	<h3><b><a href="#Live Link To Project">View Live Demo</a></b></h3>
 </div>
 
