@@ -12,7 +12,7 @@
   <h3><b><a href="#live-demo">🔗 View Live Demo</a></b></h3>
 </div>
 
----
+⸻
 
 ## 📖 Overview
 
@@ -20,15 +20,15 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 
 > 📘 [Assignment Instructions](#link-to-assignment)
 
----
+⸻
 
-## ✨ Features
+## ⚙️ How It Works
 
 - Feature 1  
 - Feature 2  
 - Feature 3  
 
----
+⸻
 
 ## ✨ Features
 
@@ -46,10 +46,8 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 - CSS3  
 - JavaScript  
 - Webpack  
-- SCSS / Bootstrap / Tailwind *(if applicable)*  
-- Any APIs or libraries used  
 
----
+⸻
 
 ## 📸 Screenshots
 
@@ -57,7 +55,22 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 |--------|
 | ![Desktop](./readme-assets/Desktop.png) | 
 
----
+⸻
+
+## 🛠️ Libraries / Assets
+
+JavaScript Libraries:
+- Library Name
+
+Icons:
+- Icon name
+
+⸻
+
+## 🛣️ Roadmap
+- Future features 
+
+⸻
 
 ## 📦 Installation - (To Run This Project Locally):
 
@@ -88,54 +101,37 @@ npm run build
 
 <!-- ⚠️ Set up environment variables or API keys if required. -->
 
-
+⸻
 
 ## 🧠 What I Learned
 - Brief explanation of technical concepts learned
 - Notable design or architecture decisions
 - Reflections on debugging, tools, or performance
 
-
-
-## 🛠️ Libraries / Assets
-
-JavaScript Libraries:
-- Library Name
-
-Icons:
-- Icon name
-	•	Microsoft Fluent UI System Icons
-
-
-## 🛣️ Roadmap
-	•	Add dark mode
-	•	Improve accessibility
-	•	Refactor UI into components
-
 ⸻
 
 ## 🧪 Notes
-	1.	Note about process or logic
-	2.	Any helpful development tips
-	3.	Things you’d improve in future iterations
+- Note about process or logic
+- Any helpful development tips
+- Things you’d improve in future iterations
 
 ⸻
 
-## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-⸻
+## 🙋‍♂ Author
 
-## 🙋‍♂️ Author
-
-## Your Name
-	•	Portfolio: yourportfolio.com
-	•	GitHub: @yourhandle
-	•	LinkedIn: https://linkedin.com/in/yourhandle
+### Linton Robinson
+- Portfolio: yourportfolio.com
+- GitHub: @LintonRobinson
+- LinkedIn: https://linkedin.com/in/yourhandle
 
 ⸻
 
 ## 🔗 Live Demo
 
 View Live Project Here
+
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
