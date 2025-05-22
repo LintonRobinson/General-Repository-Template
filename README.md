@@ -68,7 +68,7 @@ npm install
 # Start the development server
 npm run start
 
-```bash
+```
 
 ⚠️ Set up environment variables or API keys if required.
 
