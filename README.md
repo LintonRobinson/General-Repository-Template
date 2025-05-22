@@ -144,7 +144,7 @@ npm install
 npm run start
 
 
-🧠 What I Learned
+## 🧠 What I Learned
 	•	Brief explanation of technical concepts learned
 	•	Notable design or architecture decisions
 	•	Reflections on debugging, tools, or performance
