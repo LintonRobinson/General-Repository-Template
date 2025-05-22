@@ -72,16 +72,16 @@ npm run start
 
 ⚠️ Set up environment variables or API keys if required.
 
-⸻
 
-🧠 What I Learned
+
+## 🧠 What I Learned
 	•	Brief explanation of technical concepts learned
 	•	Notable design or architecture decisions
 	•	Reflections on debugging, tools, or performance
 
-⸻
 
-🛠️ Libraries / Assets
+
+## 🛠️ Libraries / Assets
 
 JavaScript Libraries:
 	•	Library Name
@@ -90,7 +90,6 @@ Icons:
 	•	Google Material Icons
 	•	Microsoft Fluent UI System Icons
 
-⸻
 
 ## 🛣️ Roadmap
 	•	Add dark mode
