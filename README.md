@@ -67,3 +67,60 @@ npm install
 
 # Start the development server
 npm run start
+
+```bash
+
+⚠️ Set up environment variables or API keys if required.
+
+⸻
+
+🧠 What I Learned
+	•	Brief explanation of technical concepts learned
+	•	Notable design or architecture decisions
+	•	Reflections on debugging, tools, or performance
+
+⸻
+
+🛠️ Libraries / Assets
+
+JavaScript Libraries:
+	•	Library Name
+
+Icons:
+	•	Google Material Icons
+	•	Microsoft Fluent UI System Icons
+
+⸻
+
+## 🛣️ Roadmap
+	•	Add dark mode
+	•	Improve accessibility
+	•	Refactor UI into components
+
+⸻
+
+## 🧪 Notes
+	1.	Note about process or logic
+	2.	Any helpful development tips
+	3.	Things you’d improve in future iterations
+
+⸻
+
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+⸻
+
+## 🙋‍♂️ Author
+
+## Your Name
+	•	Portfolio: yourportfolio.com
+	•	GitHub: @yourhandle
+	•	LinkedIn: https://linkedin.com/in/yourhandle
+
+⸻
+
+## 🔗 Live Demo
+
+View Live Project Here
