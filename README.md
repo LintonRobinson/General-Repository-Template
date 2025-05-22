@@ -30,6 +30,14 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 
 ---
 
+## ✨ Features
+
+- Feature 1  
+- Feature 2  
+- Feature 3  
+
+---
+
 ## 🔧 Tech Stack
 
 **Built With:**
@@ -51,21 +59,20 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 
 ---
 
-## 🚀 Getting Started
+## 📦 Installation - (To Run This Project Locally):
 
-To run this project locally:
-
-Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/yourhandle/project-name.git
 ```
-# Navigate into the project folder
+### 2. Navigate into the project folder
+```bash
 cd project-name
-
-# Install dependencies
+```
+### Install dependencies
 npm install
 
-# Start the development server
+### Start the development server
 npm run start
 
 
