@@ -70,14 +70,23 @@ git clone https://github.com/yourhandle/project-name.git
 cd project-name
 ```
 ### Install dependencies
+```bash
 npm install
-
+```
 ### Start the development server
+```bash
 npm run start
+```
+### # 5. Build for production (outputs to /dist)
+```bash
+npm run build
+```
 
 
 
-⚠️ Set up environment variables or API keys if required.
+
+
+<!-- ⚠️ Set up environment variables or API keys if required. -->
 
 
 
