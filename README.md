@@ -22,11 +22,10 @@ This is a **[Project Name]** application built as part of [The Odin Project](htt
 
 
 
-## ⚙️ How It Works
+## 🕹️ How to Use 
 
-- Feature 1  
-- Feature 2  
-- Feature 3  
+- <em> Action </em> on UI  
+- 
 
 
 
