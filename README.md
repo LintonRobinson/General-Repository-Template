@@ -117,6 +117,7 @@ npm run start
 npm run build
 ```
 ## 🗂️ Folder Structure
+```bash
 project-name/
 ├── dist/
 ├── src/
@@ -125,7 +126,7 @@ project-name/
 ├── package.json
 ├── webpack.config.js
 └── .gitignore
-
+```
 ---
 
 
