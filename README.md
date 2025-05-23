@@ -24,10 +24,11 @@ Through this project, I practiced:
 > 📘 [Assignment Instructions](#link-to-assignment)
 
 
+---
 
 ## 🕹️ How to Use 
 
-- <em> Action </em> on UI  
+- <b> Action </b> on UI  
 - 
 
 
@@ -38,7 +39,13 @@ Through this project, I practiced:
 - Feature 2  
 - Feature 3  
 
+---
 
+## 📸 Screenshots
+
+| Desktop | 
+|--------|
+| ![Desktop](./readme-assets/Desktop.png) | 
 
 ## 🔧 Tech Stack
 
@@ -51,13 +58,6 @@ Through this project, I practiced:
 
 
 
-## 📸 Screenshots
-
-| Desktop | 
-|--------|
-| ![Desktop](./readme-assets/Desktop.png) | 
-
-
 
 ## 🛠️ Libraries / Assets
 
@@ -68,9 +68,8 @@ Icons:
 - Icon name
 
 
+---
 
-## 🛣️ Roadmap
-- Future features 
 
 
 <!-- ⚠️ Set up environment variables or API keys if required. -->
@@ -88,6 +87,9 @@ Icons:
 - Note about process or logic
 - Any helpful development tips
 - Things you’d improve in future iterations
+
+## 🛣️ Roadmap
+- Future features 
 
 
 
@@ -114,6 +116,16 @@ npm run start
 ```bash
 npm run build
 ```
+## 🗂️ Folder Structure
+project-name/
+├── dist/
+├── src/
+│   ├── index.js
+│   └── index.html
+├── package.json
+├── webpack.config.js
+└── .gitignore
+
 ---
 
 
