@@ -18,6 +18,9 @@
 
 This is a **[Project Name]** application built as part of [The Odin Project](https://www.theodinproject.com) curriculum.
 
+Through this project, I practiced:
+- Concept 1
+
 > 📘 [Assignment Instructions](#link-to-assignment)
 
 
