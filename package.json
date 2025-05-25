@@ -1,7 +1,7 @@
 {
-  "name": "general-repository-template",
+  "name": "replace_me",
   "version": "1.0.0",
-  "description": "<div align=\"center\">   <br>   <h1>Project Name Goes Here</h1>   <br>   <div>     <img src=\"https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=for-the-badge&logo=HTML5&logoColor=white\">     <img src=\"https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=for-the-badge&logo=CSS3&logoColor=white\">     <img src=\"https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black\">     <img src=\"https://img.shields.io/static/v1?label=&message=Webpack&color=8DD6F9&style=for-the-badge&logo=webpack&logoColor=black\">   </div>   <br>   <h3><b><a href=\"#live-demo\">🔗 View Live Demo</a></b></h3> </div>",
+  "description": "REPLACE_ME",
   "main": "index.js",
   "scripts": {
     
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LintonRobinson/General-Repository-Template.git"
+    "url": "git+GITHUB_REPO_HTTPS"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LintonRobinson/General-Repository-Template/issues"
+    "url": "https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME/issues"
   },
-  "homepage": "https://github.com/LintonRobinson/General-Repository-Template#readme",
+  "homepage": "https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME#readme",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-loader": "^5.1.0",
