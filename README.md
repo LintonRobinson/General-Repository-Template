@@ -108,7 +108,7 @@ npm install
 ```
 ### 4. Start the development server
 ```bash
-npm run start
+npm run dev
 ```
 ### 5. Build for production (outputs to /dist)
 ```bash
@@ -122,10 +122,12 @@ project-name/
 │
 ├── 📁 src/                  # Source files
 │   ├── 📄 index.js          # Main JavaScript entry point
-│   └── 📄 index.html        # HTML template
+│   └── 📄 template.html        # HTML template
 │
 ├── 📄 package.json          # Project metadata and scripts
-├── 📄 webpack.config.js     # Webpack configuration
+├── 📄 webpack.common.js     # Webpack configuration
+├── 📄 webpack.dev.js     # Webpack configuration
+├── 📄 webpack.prod.js     # Webpack configuration
 └── 📄 .gitignore            # Files and folders to exclude from Git
 ```
 ---
