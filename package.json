@@ -12,7 +12,8 @@
     "start-server": "npx webpack serve",
     "dev": "webpack serve --config webpack.dev.js",
     "postdev": "npm run start-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -26,9 +27,13 @@
   },
   "homepage": "https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME#readme",
   "devDependencies": {
+    "@eslint/js": "^9.35.0",
     "css-loader": "^7.1.2",
+    "eslint": "^9.35.0",
+    "globals": "^16.4.0",
     "html-loader": "^5.1.0",
     "html-webpack-plugin": "^5.6.3",
+    "prettier": "3.6.2",
     "style-loader": "^4.0.0",
     "webpack": "^5.99.9",
     "webpack-cli": "^6.0.1",
